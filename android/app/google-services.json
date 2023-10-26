@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009629084264",
+    "project_id": "nustap",
+    "storage_bucket": "nustap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009629084264:android:9b390fc03aa65cd85a59dd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_setup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySy8tWZ3UvB2SCrXaQG5p9puGbOb0VXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009629084264:android:a8578507fd36cea85a59dd",
+        "android_client_info": {
+          "package_name": "com.example.nust_ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySy8tWZ3UvB2SCrXaQG5p9puGbOb0VXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
